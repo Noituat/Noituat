@@ -4,12 +4,12 @@
 ```
 Noituat@github
 -------------------------
-💻 PC Master Race! (+consoles on the side... Shhhh :D)
-📚 Second year Engineering student at ESIR
-🧑‍💻 Ops team apprentice on Orange On Demand Cloud Gaming service
+💻 PC Master Race!
+📚 IT & Security Engineer
+🧑‍💻 Blue Ops for French MoD
 🔭 Always on the lookout for opportunities to learn new things
 🌱 Young seed interested in everything!
-🌟 Main languages: Python, JavaScript
+🌟 Main language: Python
 🎵 Listen to "almost" everything
 ```
 <hr>
